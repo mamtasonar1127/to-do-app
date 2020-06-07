@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mamtasonar1127/to-do-app/static/css/main.45b08bb0.chunk.css",
+    "main.js": "/mamtasonar1127/to-do-app/static/js/main.ee180891.chunk.js",
+    "main.js.map": "/mamtasonar1127/to-do-app/static/js/main.ee180891.chunk.js.map",
+    "runtime-main.js": "/mamtasonar1127/to-do-app/static/js/runtime-main.ff495288.js",
+    "runtime-main.js.map": "/mamtasonar1127/to-do-app/static/js/runtime-main.ff495288.js.map",
+    "static/js/2.e212fbf2.chunk.js": "/mamtasonar1127/to-do-app/static/js/2.e212fbf2.chunk.js",
+    "static/js/2.e212fbf2.chunk.js.map": "/mamtasonar1127/to-do-app/static/js/2.e212fbf2.chunk.js.map",
+    "index.html": "/mamtasonar1127/to-do-app/index.html",
+    "precache-manifest.fd8f702b2c5e9bdb63949ac4758cdd56.js": "/mamtasonar1127/to-do-app/precache-manifest.fd8f702b2c5e9bdb63949ac4758cdd56.js",
+    "service-worker.js": "/mamtasonar1127/to-do-app/service-worker.js",
+    "static/css/main.45b08bb0.chunk.css.map": "/mamtasonar1127/to-do-app/static/css/main.45b08bb0.chunk.css.map",
+    "static/js/2.e212fbf2.chunk.js.LICENSE.txt": "/mamtasonar1127/to-do-app/static/js/2.e212fbf2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mamtasonar1127/to-do-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff495288.js",
+    "static/js/2.e212fbf2.chunk.js",
+    "static/css/main.45b08bb0.chunk.css",
+    "static/js/main.ee180891.chunk.js"
+  ]
+}
